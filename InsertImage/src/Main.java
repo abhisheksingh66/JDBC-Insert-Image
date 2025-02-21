@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) throws ClassNotFoundException{
         String url = "jdbc:mysql://localhost:3306/school";
         String username = "root";
-        String password = "@Anshulsingh66";
+        String password = "@EnterYourMysqlPassword";
 //        String imgpath = "C:\\Users\\abhis\\Downloads\\image1.jpg";
 //        String query = "insert into img_table(image_data) values(?)";
 
